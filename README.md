@@ -25,3 +25,7 @@ Na Fatec SJC nos alunos aprendemos o uso da metodologia ágil, onde é feito pro
 -  [ ] 4º Semestre
 -  [ ] 5º Semestre
 -  [ ] 6º Semestre
+
+### Projeto 1º Semestre
+O objetivo do projeto feito no primeiro semestre, é um site onde contenha todos os projetos feitos nos semestres anteriores, fazendo assim o criente não correr o risco de perder esses projetos caso os desenvolvedores decidem apagar.
+
