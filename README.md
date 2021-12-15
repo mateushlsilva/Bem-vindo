@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 ---
 ## Linguagens
-Atualmente estou aprendendo algumas linguagens seja elas de programção ou de marcação :nerd_face:, também tenho o desejo de aprender novas linguagens :earth_americas:<br>
+Atualmente estou aprendendo algumas linguagens sejam elas de programção ou de marcação :nerd_face:, também tenho o desejo de aprender mais algumas :earth_americas:<br>
 ### Aprendendo
 1. Python - Estou aprendendo mais sobre POO.
 1. JavaScript - Estou no inicio dos meus estudos.
