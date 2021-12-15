@@ -19,7 +19,7 @@ Atualmente estou aprendendo algumas linguagens seja elas de programção ou de m
 ## Aprendizagem por Projetos Integrados
 Na Fatec SJC nos alunos aprendemos o uso da metodologia ágil, onde é feito projetos em cada semestre, com base em um problema da vida real. Projetos esses que vem de empresas presentes no Parque Tecnológico, onde apenas no primeiro semestre o projeto vem de um criente interno da Fatec SJC.
 
--  [x] [1º Semestre](https://github.com/mateushlsilva/1-Semestre)
+-  [x] [1º Semestre](https://github.com/mateushlsilva/API_1SEM)
 -  [ ] 2º Semestre
 -  [ ] 3º Semestre
 -  [ ] 4º Semestre
