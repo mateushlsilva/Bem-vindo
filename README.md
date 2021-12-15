@@ -10,7 +10,7 @@ Atualmente estou aprendendo algumas linguagens seja elas de programção ou de m
 1. JavaScript - Estou no inicio dos meus estudos.
 1. HTML5, CSS3 - Estou aprendendo mais sobre tabelas.
 
-### Prentendo Aprender
+### Pretendo Aprender
 1. Golang
 1. Java
 1. Kotlin
