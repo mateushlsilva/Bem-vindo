@@ -20,7 +20,7 @@ Atualmente estou aprendendo algumas linguagens sejam elas de programção ou de 
 Na Fatec SJC, nós alunos aprendemos o uso da metodologia ágil :runner:, onde é feito projetos em cada semestre, com base em um problema da vida real. Projetos esses que vem de empresas presentes no Parque Tecnológico, onde apenas no primeiro semestre o projeto vem de um cliente interno da Fatec SJC. [Conheça um pouco mais sobre cada semestre.](https://github.com/mateushlsilva/mateushlsilva/blob/main/links.pdf)
 
 -  [x] [1º Semestre](https://github.com/mateushlsilva/API_1SEM)
--  [ ] 2º Semestre
+-  [ ] [2º Semestre](https://github.com/Equipe3-API/API-2-Semestre)
 -  [ ] 3º Semestre
 -  [ ] 4º Semestre
 -  [ ] 5º Semestre
