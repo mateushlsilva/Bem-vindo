@@ -26,5 +26,7 @@ Na Fatec SJC, nós alunos aprendemos o uso da metodologia ágil :runner:, onde �
 -  [ ] 5º Semestre
 -  [ ] 6º Semestre
 
-<a src="https://www.linkedin.com/in/mateus-silva-80232a222/"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-silva-80232a222/)](https://www.linkedin.com/in/mateus-silva-80232a222/)
+ 
 
