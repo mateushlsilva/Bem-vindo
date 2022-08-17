@@ -22,7 +22,7 @@ Na Fatec SJC, nós alunos aprendemos o uso da metodologia ágil :runner:, onde �
 
 -  [x] [1º Semestre](https://github.com/mateushlsilva/API_1SEM)
 -  [x] [2º Semestre](https://github.com/mateushlsilva/API-2-Semestre)
--  [ ] 3º Semestre
+-  [ ] [3º Semestre](https://github.com/Equipe3-API/API_3_Semestre)
 -  [ ] 4º Semestre
 -  [ ] 5º Semestre
 -  [ ] 6º Semestre
