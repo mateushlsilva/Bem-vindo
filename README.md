@@ -7,9 +7,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 Atualmente estou aprendendo algumas linguagens sejam elas de programção ou de marcação :nerd_face:, também tenho o desejo de aprender mais algumas :earth_americas:<br>
 
 ### Aprendendo
-* Python - Estou aprendendo mais sobre POO.
-* JavaScript - Estou no inicio dos meus estudos.
-* HTML5, CSS3 - Estou aprendendo mais sobre tabelas.
+* Linux
+* Python
+* JavaScript
+* HTML5, CSS3
 
 ### Pretendo Aprender
 * Golang
