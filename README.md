@@ -7,6 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 Atualmente estou aprendendo algumas linguagens sejam elas de programção ou de marcação :nerd_face:, também tenho o desejo de aprender mais algumas :earth_americas:<br>
 
 ### Aprendendo
+* Docker e kubernetes
 * Linux
 * Python
 * JavaScript
