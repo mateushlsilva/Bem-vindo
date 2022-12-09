@@ -1,10 +1,8 @@
 # Seja Bem-vindo!
 Olá, o meu nome é Mateus! :grinning: :thumbsup:<br>
-Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino estadual _**Fatec SJC**(São José Dos Campos)_ :man_student:, atualmente estou indo para o meu segundo semestre :grin:, sou apaixonado por aprender! :cowboy_hat_face: 
+Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensino estadual _**Fatec SJC**(São José Dos Campos)_ :man_student:, atualmente estou no terceiro semestre :grin:, sou apaixonado por aprender! :cowboy_hat_face: 
 
 ---
-## Linguagens
-Atualmente estou aprendendo algumas linguagens sejam elas de programção ou de marcação :nerd_face:, também tenho o desejo de aprender mais algumas :earth_americas:<br>
 
 ### Aprendendo
 * Docker e kubernetes
