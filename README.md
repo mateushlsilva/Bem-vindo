@@ -18,7 +18,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 ---
 ## Aprendizagem por Projetos Integrados
-Na Fatec SJC, nós alunos aprendemos o uso da metodologia ágil :runner:, onde é feito projetos em cada semestre, com base em um problema da vida real. Projetos esses que vem de empresas presentes no Parque Tecnológico, onde apenas no primeiro semestre o projeto vem de um cliente interno da Fatec SJC. 
+Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para desenvolver projetos a cada semestre, baseados em problemas reais. Esses projetos são fornecidos por empresas presentes no Parque Tecnológico, sendo que apenas no primeiro semestre é um projeto interno da Fatec SJC.
 
 -  [x] [1º Semestre](https://github.com/mateushlsilva/API_1SEM)
 -  [x] [2º Semestre](https://github.com/mateushlsilva/API-2-Semestre)
