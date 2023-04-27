@@ -4,17 +4,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 
 ---
 
-### Aprendendo
-* Docker e kubernetes
-* Linux
-* Python
-* JavaScript
-* HTML5, CSS3
+### Hard Skills
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,linux,docker,py,git,mysql)](https://skillicons.dev)
 
-### Pretendo Aprender
-* Golang
-* Java
-* Kotlin
 
 ---
 ## Aprendizagem por Projetos Integrados
