@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na instituição de ensi
 ---
 
 ### Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,linux,docker,py,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,linux,docker,py,git,mysql,kubernetes)](https://skillicons.dev)
 
 
 ---
