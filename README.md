@@ -17,7 +17,7 @@ Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para de
 -  [x] [3º Semestre](https://github.com/mateushlsilva/API_3_Semestre)
 -  [x] [4º Semestre](https://github.com/mateushlsilva/API_4_Semestre)
 -  [x] [5º Semestre](https://github.com/mateushlsilva/API_5_Semestre)
--  [ ] [6º Semestre](https://github.com/peonia-api/API_6_Semestre)
+-  [x] [6º Semestre](https://github.com/peonia-api/API_6_Semestre)
 
 
 <a href="https://www.linkedin.com/in/mateus-silva2003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
